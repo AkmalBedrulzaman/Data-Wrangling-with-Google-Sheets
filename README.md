@@ -66,12 +66,20 @@
 #### Data Cleaning using CLeanup Suggestion
     data - data cleanup - cleanup suggestion - handle all suggestion
     
-    
-#### 
-#### 
-####
-#### 
-####
+  ---
+
+## 3) Enriching Data 
+
+#### Sorting the Column
+    choose column - data - sort sheet -sort sheet by column ( a to z)
+#### Concatenate the column
+    choose column - insert 1 column to the right - type function =CONCATENATE(B2, " ", D2)
+#### Multiply 2 Different Column Together
+    create new column - type function =H2*G2
+#### Using Regexmatch Function to Look for PG Word
+    create new column - type function =REGEXMATCH(B2, "PG")
+#### Using Regexmatch Function 
+    type function =REGEXMATCH(B2, "PG"), 1, 0) - add row at below - calculate sum how much PG by using function =SUM(C2:C468)
 
 
 
