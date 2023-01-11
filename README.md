@@ -96,5 +96,6 @@
 
 ---
 
+## 6) Now the Data is Clean
+![Data Wrangling with Google Sheets by using Netflix Shows Dataset](https://user-images.githubusercontent.com/120476824/211836746-f7109ed2-5402-4f71-8157-de00972e4408.png)
 
-![Data Wrangling with Google Sheets by using Netflix Shows Dataset](https://user-images.githubusercontent.com/120476824/211834812-cb0b055d-9ddd-45df-a83e-d49197e4bc84.png)
