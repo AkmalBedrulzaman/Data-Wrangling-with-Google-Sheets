@@ -68,7 +68,7 @@
     
   ---
 
-## 3) Enriching Data 
+## 4) Enriching Data 
 
 #### Sorting the Column
     choose column - data - sort sheet -sort sheet by column ( a to z)
@@ -81,7 +81,20 @@
 #### Using Regexmatch Function 
     type function =REGEXMATCH(B2, "PG"), 1, 0) - add row at below - calculate sum how much PG by using function =SUM(C2:C468)
 
+---
 
+## 5) Verification
+
+#### Recheck Duplicate
+    data - data cleanup - remove duplicates
+#### Recheck Data Type Manually
+    check for data type if text will be on left and number on right
+#### Recheck Missing Values
+    check by filter each column and see if dont have blank means data is clean
+#### Recheck Inconsistency Data Entry Such As Errors and Misspelling 
+    tools - spelling - spell check
+
+---
 
 
 
