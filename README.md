@@ -96,5 +96,14 @@
 
 ---
 
-## 6) After Wrangling Process, Now the Data is Clean
+# Result 
+
+## Before Data Wrangling
+![Before Wrangling](https://user-images.githubusercontent.com/120476824/211851713-4c2d1803-3b2f-4177-a1bf-4cd899695794.png)
+
+---
+
+## After Wrangling Process, Now the Data is Clean
 ![Data Wrangling with Google Sheets by using Netflix Shows Dataset](https://user-images.githubusercontent.com/120476824/211837935-1ddb2a1c-6d38-48d5-a9b7-31c9e81b4997.png)
+
+---
