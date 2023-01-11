@@ -93,3 +93,8 @@
     check by filter each column and see if dont have blank means data is clean
 #### Recheck Inconsistency Data Entry Such As Errors and Misspelling 
     tools - spelling - spell check
+
+---
+
+
+![Data Wrangling with Google Sheets by using Netflix Shows Dataset](https://user-images.githubusercontent.com/120476824/211834812-cb0b055d-9ddd-45df-a83e-d49197e4bc84.png)
