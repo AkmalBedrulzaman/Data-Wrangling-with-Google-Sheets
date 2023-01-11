@@ -93,9 +93,3 @@
     check by filter each column and see if dont have blank means data is clean
 #### Recheck Inconsistency Data Entry Such As Errors and Misspelling 
     tools - spelling - spell check
-
----
-
-
-
-
